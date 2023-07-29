@@ -20,7 +20,7 @@ This project aims to implement a face detection and recognition algorithm using 
 - 4 GB RAM (Recommended: 6 GB or greater)
 - 40 GB disk space
 
-### Software
+### Dependencies
 
 - Python 3
 - TensorFlow
